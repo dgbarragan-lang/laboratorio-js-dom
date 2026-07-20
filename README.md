@@ -113,9 +113,3 @@ function mostrarModalJSON() {
   - SweetAlert2: confirmaciones (eliminar, limpiar todo).
   - Toastify: notificaciones breves de éxito/advertencia.
 
-  Qué documentar en el informe
-  ---------------------------
-  - Explicar qué es el DOM y cómo JavaScript lo usa para leer/modificar elementos (`getElementById`, `createElement`, `appendChild`, `textContent`, `innerHTML`, `classList`).
-  - Describir eventos (`click`) y el flujo de datos entre formulario → arreglo → renderizado.
-  - Mostrar fragmentos clave de `app.js` (obtener datos, validación, `renderTabla`, `mostrarJsonEnModal`, `iniciarEdicion`, `eliminarEstudiante`).
-  - Incluir capturas (figuras) numeradas y explicar cada prueba realizada.
